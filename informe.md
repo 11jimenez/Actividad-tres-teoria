@@ -8,7 +8,7 @@ OpenJML, verificador estático para Java con especificaciones JML. Genera condic
 
 ## 2. Programa elegido
 Suma de los primeros n naturales, con un ciclo `while` y 4 asignaciones (`s=0`, `i=0`, `i=i+1`, `s=s+i`).
-Código completo en `Suma.java` (ver repositorio).
+Código completo en `Suma.java`.
 
 ## 3. Especificación y verificación
 Terna de Hoare:
@@ -32,9 +32,9 @@ Resultado de OpenJML: <pegar salida / captura de pantalla>
 Ver `README.md`: `openjml --esc Suma.java`.
 
 ## 5. Sistema operativo y versiones
-- SO: <completar>
-- Java: <completar>
-- OpenJML: <completar>
+- SO: <Windows 11>
+- Java: <1.8.0_503>
+- OpenJML: <21.0.29>
 
 ## 6. Referencias
 - OpenJML. https://www.openjml.org/
@@ -45,8 +45,6 @@ Ver `README.md`: `openjml --esc Suma.java`.
 
 ## 7. Declaración de uso de inteligencia artificial
 1. **Agentes utilizados:** Claude (Anthropic).
-2. **Para qué se usaron:** <detallar: p. ej., sugerir el programa y la especificación JML inicial, plantilla del README e informe>.
-3. **Qué hizo el grupo sin IA:** <detallar: instalación de OpenJML, ejecución y verificación, prueba con invariante erróneo, revisión y comprensión de la demostración, subida a GitHub>.
+2. **Para qué se usaron:** La IA fue usada para ayudarnos a instalar las dependencias necesarias del programa, corregir errores, nos ayudo en la sugerencia del programa a ejecuar y ademas a crear una base(plantilla) para nuestro 'README.md' e 'informe.md' los cuales fueron modificados posteriormente.
+3. **Qué hizo el grupo sin IA:** Realizamos la instalacion de las diferentes dependencias usadas. Ejecutamos, probamos y modificamos el codigo base en busqueda de errores, bugs o fallos, ademas de apropiarnos de la solucion y entrega establecida y subir el repositorio a GitHub.
 
-## 8. Repositorio
-<URL de GitHub>
