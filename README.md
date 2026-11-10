@@ -25,6 +25,6 @@ javac Suma.java && java Suma
 ```
 
 ## Versiones usadas (completar)
-- Sistema operativo: <completar>
-- Java: <completar, `java -version`>
-- OpenJML: <completar, `openjml --version`>
+- Sistema operativo: <Windows>
+- Java: <java version 1.8.0_503, `java -version`>
+- OpenJML: <openjml 21.0.29, `openjml --version`>
