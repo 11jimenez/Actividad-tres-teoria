@@ -1,7 +1,7 @@
 # Verificación formal de correctitud parcial con Java + OpenJML
 
-**Integrantes:** Emmanuel Jimenez
-**Curso / fecha:** Samuel David
+**Integrantes:** Emmanuel Jimenez - Samuel David
+**Curso:** Teoria de la Computacion
 
 ## 1. Herramienta seleccionada
 OpenJML, verificador estático para Java con especificaciones JML. Genera condiciones de verificación a partir de pre/postcondiciones e invariantes (cálculo de precondición más débil, basado en la lógica de Hoare) y las resuelve con un solver SMT (Z3/CVC4). Es el equivalente en Java de Frama-C/WP para C.
