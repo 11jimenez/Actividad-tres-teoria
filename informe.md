@@ -1,6 +1,6 @@
 # Verificación formal de correctitud parcial con Java + OpenJML
 
-**Integrantes:** Emmanuel Jimenez - Samuel David
+**Integrantes:** Emmanuel Jimenez - Samuel David Plata  
 **Curso:** Teoria de la Computacion
 
 ## 1. Herramienta seleccionada
